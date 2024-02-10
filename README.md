@@ -1,4 +1,4 @@
-# Eu sou o Elias estudante de programação
+# Oi, eu sou o Elias estudante de programação
 - E essas são as linguagens que eu programo
 
 <div style="display: inline_block"><br>
