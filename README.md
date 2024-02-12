@@ -46,7 +46,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Elias-WP" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Elias-An" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">  
-  <img align="center" alt="Elias-Py" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> 
+  <img align="center" alt="Elias-API" height="35" width="45" src="https://d3sxshmncs10te.cloudfront.net/icon/premium/png-512/1687251.png?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwODAyMTczMiwicSI6bnVsbCwiaWF0IjoxNzA3NzYyNTMyfQ__.d9d2f4e1aabb633d76075e7b228722d861d2f9755e8440e1c9a9019db7a3182c"> 
 </div>
 
 <div align="center">
