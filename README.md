@@ -30,6 +30,8 @@
   <img align="center" alt="Elias-php" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Elias-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> 
   <img align="center" alt="Elias-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">  
+  <img align="center" alt="Elias-spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">  
+  <img align="center" alt="Elias-WP" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
 </div>
 
  
@@ -38,15 +40,15 @@
   <img align="center" alt="Elias-VsCode" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Elias-GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">  
   <img align="center" alt="Elias-GITHUB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Elias-GITLAB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" 
+  <img align="center" alt="Elias-GITLAB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg">  
+  <img align="center" alt="Elias-eclipse" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
+  <img align="center" alt="Elias-bitbucket" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg">
 </div>
  
 
 ### Studying in this moment:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Elias-WP" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Elias-An" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">  
-  <img align="center" alt="Elias-API" height="35" width="45" src="https://d3sxshmncs10te.cloudfront.net/icon/premium/png-512/1687251.png?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwODAyMTczMiwicSI6bnVsbCwiaWF0IjoxNzA3NzYyNTMyfQ__.d9d2f4e1aabb633d76075e7b228722d861d2f9755e8440e1c9a9019db7a3182c"> 
 </div>
 
 <div align="center">
