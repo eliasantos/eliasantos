@@ -31,7 +31,7 @@
   <img align="center" alt="Elias-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> 
   <img align="center" alt="Elias-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">  
   <img align="center" alt="Elias-spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">  
-  <img align="center" alt="Elias-Swgg" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg">  
+  <img align="center" alt="Elias-Swgg" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">  
   <img align="center" alt="Elias-Postm" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg">
   <img align="center" alt="Elias-WP" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
 </div>
